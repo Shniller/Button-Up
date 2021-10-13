@@ -1,0 +1,42 @@
+div {
+  margin:
+}
+.Search {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 60px;
+  padding-left: 60px;
+  border-radius: 50px;
+  border-width: 10px;
+  border-top-color: aqua;
+  border-left-color: aqua;
+  border-bottom-color: aqua;
+  border-right-color: aqua;
+  background-color: white;
+  color: aqua;
+  }
+  .plus-sign {
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-left-color: white;
+    color: white;
+    background: aqua;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+  }
+  .Create-Account {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 15px;
+    border-width: 0px;
+    background-color: rgb(26, 99, 167);
+    color: white;
+    box-shadow: 5px 3px 3px black;
+  }
+  
